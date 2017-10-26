@@ -1,2 +1,2 @@
-# responsive-nav
-Figuring out how to create a responsive nav with JavaScript from scratch
+# Responsive Navigation
+Figuring out how to create a simple responsive nav with JavaScript from scratch

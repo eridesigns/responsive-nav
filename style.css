@@ -36,9 +36,6 @@ ul a {
     text-decoration: none;
 }
 
-ul a:hover {
-    color: #ce701e;
-}
 
 #responsive-button {
     width: 24px;
@@ -48,7 +45,6 @@ ul a:hover {
 #responsive-button img {
     max-width: 100%;
 }
-
 
 
 
@@ -67,6 +63,24 @@ main {
     
     nav ul {
         display: none;
+    }
+    
+    .responsive-style {
+        display: inline-block;
+        position: absolute;
+        margin-top: 50px;
+        background-color: #262626;
+        width: 200px;
+        padding: 0;
+        color: red;
+    }
+    
+    .responsive-style li {
+        padding: 1em;
+    }
+    
+    .responsive-style li:hover {
+        background-color: #ccc;
     }
     
     #responsive-button {
